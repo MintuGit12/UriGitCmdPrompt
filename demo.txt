@@ -1,3 +1,5 @@
 push is done now pull
 now the next line is amazing
 now we will update and commit and then push
+shortcut to add and commit
+git commit -a -m "file modified added to staging area and commit"
