@@ -1,2 +1,3 @@
 push is done now pull
 now the next line is amazing
+now we will update and commit and then push
